@@ -28,3 +28,32 @@ Azure Progress and MLOps work.
 - Build
 - Deploy
 
+### Azure DeOps service
+
+- Quick set-up
+- Maintenance-free operations
+- Easy collaboration across domains
+- Elastic scale
+- Rock-solid security
+
+
+### DevOps and the Cloud
+
+- Cloud Agility
+- Orchestration
+- Serverless Computing
+
+### Features of Azure DevOps
+
+- Flexible
+- Platform agnostic
+- Cloud agnostic
+
+### Azure DevOps Services
+
+- Azure repos 
+- Azure pipelines
+- Azure Boards
+- Azure Test plans 
+- Azure Artifacts
+
