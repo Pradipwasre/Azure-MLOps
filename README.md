@@ -72,3 +72,25 @@ Also
 - Starlette for the web parts
 - Pydntic for the data parts
 
+## Features of FastAPI
+
+
+- Fast
+- Fast to code
+- Fewer bugs 
+- Intuitive
+- Easy 
+- Short
+- Robust
+- Standards-based
+
+## Routing  Methods
+* Routing refers to how an apllication's endpoints (URLs) respond to client requests.
+- GET() Method
+- Post() Method
+
+
+
+
+
+
