@@ -132,4 +132,23 @@ Also
     - Azure PowerShel scripts
     - The Azure CLI
     - The ARM template
+
+----------------------------------------------------------------
+
+## Azure Container Registry
+
+- The Azure container registry is a hosting platform for Docker images.
+- Private registry to store and manage private docker container images and other related artifacts
+- Fast, scalable retreval of container workloads
+- Handles private Docker container images as well as related content formats
+- Automate container building and patching
+
+----------------------------------------------------------------
+
+## Benefits of Azure Container Registry
+
+    - Store and manage images for all types of container deployments
+    - Automated container builds, testing and security scanning
+    - Store common Command line interface (CLI) to interact with the registry
+    - Manage windows and Linux container images in a single registry
     
