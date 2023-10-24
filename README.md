@@ -63,3 +63,12 @@ Also
 - Notifiaction Tools
 - Extension Support
 ---------------------------------------------------
+
+
+# FastAPI
+
+- Modern, fast, high-performance web framework for building APIs with Python
+- Uses a web server called ASGI or Asynchronous Server Gateway Interface
+- Starlette for the web parts
+- Pydntic for the data parts
+
