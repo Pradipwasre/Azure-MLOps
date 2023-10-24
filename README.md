@@ -89,8 +89,20 @@ Also
 - GET() Method
 - Post() Method
 
+----------------------------------------------------------------
 
+# Docker
 
+- Docker is an open platform for developing, shipping, and running applicaitons
+- Manage infrastructures and applications
+- Ability to package and run an application in a loosely isolated environment called a container
+- Containers are lightweight and contain everything needed to tun the application
 
+----------------------------------------------------------------
 
+# Uses of Docker
 
+- Docker streamlines the development lifecycle by allowing developers to work in standardized environments
+- Containers are great for (CI/CD) workflows
+- Responsive deployment and scaling 
+- Running more workloads on the same hardware
