@@ -100,9 +100,36 @@ Also
 
 ----------------------------------------------------------------
 
-# Uses of Docker
+## Uses of Docker
 
 - Docker streamlines the development lifecycle by allowing developers to work in standardized environments
 - Containers are great for (CI/CD) workflows
 - Responsive deployment and scaling 
 - Running more workloads on the same hardware
+
+----------------------------------------------------------------
+
+## Docker Images and Containers
+
+    - An images is a read-only template with infrastructure for creating a Docker container.
+    - We create a Dockerfile with a simple syntax for defining the steps needed to create the image and run it.
+    - A container is a runnable instance of an image. You can create, start, sotp, move, or delete a container using the Docker API or CLI.
+    - A container is defined by its images as well as any configuration options you provide to it when you create a start it.
+
+------------------------------------------------------------------
+
+ # Azure Resource Group:
+
+    - Container that holds related resources for an Azure solution
+    - Allocate resources to resource groups 
+    - Stores metadata about the resources
+
+----------------------------------------------------------------
+
+## Create Azure Resource Groups
+
+    - The Azure Portal
+    - Azure PowerShel scripts
+    - The Azure CLI
+    - The ARM template
+    
