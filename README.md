@@ -190,3 +190,30 @@ Also
 
 ----------------------------------------------------------------
 
+## Perqusites
+
+    - Azure DevOps account
+    - Source code in Version Control System
+
+----------------------------------------------------------------
+
+## Benefits of  Azure Pipelines
+
+    - Works with any lanuauage or platform
+    - Deployes to different types of targets at the same time
+    - Integrates with Azure deployments
+    - Builds on Windows, Linux, or Mac machines
+    - Integrates with GitHub
+    - Works with open-source projects
+
+----------------------------------------------------------------
+
+## Building Azure Pipelines
+
+    * Continuous Integration | * Continuous Delivery
+
+### Defining Pipelines: 
+    - YAML Syntax
+    - Classic interface
+
+    
