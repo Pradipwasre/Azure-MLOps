@@ -215,5 +215,17 @@ Also
 ### Defining Pipelines: 
     - YAML Syntax
     - Classic interface
+    - Define pipeline in a YAML file called azure-pipelines.yml
+    - Create and configure pipelines in the Azure DevOps web portal with the classic user interface editor.
 
+----------------------------------------------------------------
+
+# YAML
+
+    - Data serialization language that is used for writing configuration file
+    - YAML is for data, not documents
+    - Human-readable and easy to understand
+    - YAML has features that come from other programming languages
+    - The structure of a YAML file is a map or a list
     
+
