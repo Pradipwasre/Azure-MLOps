@@ -176,3 +176,17 @@ Also
 - Continuous AIntegration (CI) is the practice used by development teams of automating merging and testing code.
 - Continuous Delivery (CD) is a process by which code is built, tested and deployed to tone or more test production enviroinment
 - Continuous Testing (CT) is the use of automated build-deploy-test workflows that test your changes continuously
+
+----------------------------------------------------------------
+
+## Features of Azure Pipeline:
+
+    - Version control systems
+    - Languages
+    - Apllication types
+    - Deployment targets
+    - Continuous testing 
+    - Package formats
+
+----------------------------------------------------------------
+
