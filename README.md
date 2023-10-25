@@ -151,4 +151,28 @@ Also
     - Automated container builds, testing and security scanning
     - Store common Command line interface (CLI) to interact with the registry
     - Manage windows and Linux container images in a single registry
-    
+
+-----------------------------------------------------------------
+
+## Advantages of Azure Resource Groups
+
+    - Straightforward way to create and manage resources
+    - Provides a flecible, customizable, high-level view of available resource
+    - Collects metadata from each individual resource to facilitate more granular management than at the subsciption level
+    - Effective administration, cost management and role-base access controls.
+
+----------------------------------------------------------------
+
+# Introduction Pipelines
+
+    - Automatically builds and tests code projects
+    - Continuos integration + Continuous Delivery
+    - Continuous Testing
+
+-----------------------------------------------------------------
+
+# CI/CD/CT:
+
+- Continuous AIntegration (CI) is the practice used by development teams of automating merging and testing code.
+- Continuous Delivery (CD) is a process by which code is built, tested and deployed to tone or more test production enviroinment
+- Continuous Testing (CT) is the use of automated build-deploy-test workflows that test your changes continuously
