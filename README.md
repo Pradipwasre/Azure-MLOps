@@ -234,5 +234,6 @@ Also
 
     - Change the platform for build
     - Add steps
+    - Build across multiple platforms
     - Bild using multiple versions
     - Customize CI triggers
