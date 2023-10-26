@@ -227,5 +227,12 @@ Also
     - Human-readable and easy to understand
     - YAML has features that come from other programming languages
     - The structure of a YAML file is a map or a list
-    
+     
+----------------------------------------------------------------
 
+# Customize YAML Pipeline
+
+    - Change the platform for build
+    - Add steps
+    - Bild using multiple versions
+    - Customize CI triggers
