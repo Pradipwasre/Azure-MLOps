@@ -237,3 +237,10 @@ Also
     - Build across multiple platforms
     - Bild using multiple versions
     - Customize CI triggers
+
+----------------------------------------------------------------
+
+# Azure Web App
+
+    - Create and deploy scalable web applications
+    - End point for deployment
