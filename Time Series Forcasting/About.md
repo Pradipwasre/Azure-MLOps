@@ -38,6 +38,11 @@ The total number of rows are 132 and number of columns are 8:
 We aim to build four deep learning models such as MLP, CNN, LSTM, and a hybrid
 CNN-LSTM model on the given time series dataset.
 
+Tech stack
+
+* Language - Python
+* Libraries - pandas, numpy, matplotlib, TensorFlow
+
 --------------------------------
 # Time Series Introduction
 
