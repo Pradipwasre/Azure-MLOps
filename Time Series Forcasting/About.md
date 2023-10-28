@@ -20,18 +20,24 @@ There are four major models which will be built,
     > Convolutional Neural Network (CNN)
     > Long Short-Term Memory (LSTM)
     > Hybrid CNN – LSTM
-    > Data Description
+    
+## Data Description:
+--------------------------------------------------------------------------------
     
 The dataset is “Call-centres” data. This data is at month level wherein the calls are
 segregated at domain level as the call centre operates for various domains. There are
 also external regressors like no of channels and no of phone lines which essentially
 indicate the traffic prediction of the inhouse analyst and the resources available.
 The total number of rows are 132 and number of columns are 8:
-• Month, healthcare, telecom, banking, technology, insurance, no of phonelines
-and no of channels.
-Aim
+
+    • Month, healthcare, telecom, banking, technology, insurance, no of phonelines
+    and no of channels.
+
+* Aim
+
 We aim to build four deep learning models such as MLP, CNN, LSTM, and a hybrid
 CNN-LSTM model on the given time series dataset.
+
 --------------------------------
 # Time Series Introduction
 
