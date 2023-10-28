@@ -1,3 +1,38 @@
+# Business Objective:
+
+Deep Learning has become a fundamental part of the new generation of Time Series
+Forecasting models, obtaining excellent results While in classical Machine Learning
+models - such as autoregressive models (AR) or exponential smoothing - feature
+engineering is performed manually and often some parameters are optimized also
+considering the domain knowledge, Deep Learning models learn features and
+dynamics only and directly from the data. Thanks to this, they speed up the process
+of data preparation and are able to learn more complex data patterns in a more
+complete way.
+
+Till now, in this sequence of time-series projects, we have covered the machine
+learning topics such as Autoregression modelling, Moving Average Smoothing
+techniques, ARIMA model, Multiple linear regression, Gaussian process, and ARCHGARCH models.
+
+In this project, we will demonstrate how deep learning in time series can be used.
+There are four major models which will be built,
+
+    > Multi-Layer Perceptron (MLP)
+    > Convolutional Neural Network (CNN)
+    > Long Short-Term Memory (LSTM)
+    > Hybrid CNN – LSTM
+    > Data Description
+    
+The dataset is “Call-centres” data. This data is at month level wherein the calls are
+segregated at domain level as the call centre operates for various domains. There are
+also external regressors like no of channels and no of phone lines which essentially
+indicate the traffic prediction of the inhouse analyst and the resources available.
+The total number of rows are 132 and number of columns are 8:
+• Month, healthcare, telecom, banking, technology, insurance, no of phonelines
+and no of channels.
+Aim
+We aim to build four deep learning models such as MLP, CNN, LSTM, and a hybrid
+CNN-LSTM model on the given time series dataset.
+--------------------------------
 # Time Series Introduction
 
     - We're going to discover how it deffers from other types of data you've previously encountered and why
@@ -28,4 +63,3 @@
     - Setting the desired frequency
     - Handling missing values
     - QQ plots
-    
