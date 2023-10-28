@@ -7,5 +7,4 @@
     - As long as the values we record are unambiguous, any medium could be measured with Time series.
     - There aren't any limitations regarding the total time span of our Time Series.
     - It could be a minute, a day, a month or even a century
-    - All we need is a stating and an ending point.
-    
+    - All we need is a stating and an ending point. 
