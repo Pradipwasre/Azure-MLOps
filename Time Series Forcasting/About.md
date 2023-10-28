@@ -45,21 +45,28 @@ Tech stack
 
  Approach
     1. Import the required libraries and read the dataset
+
     2. Perform descriptive analysis
+
     3. Data pre-processing
         * Setting date as Index
         * Setting frequency as month
+    
     4. Exploratory Data Analysis (EDA) -
         * Data Visualization
+    
     5. Set the training format
         * Reshape the input data
+    
     6. Perform train-test split
+    
     7. MLP model
         * Define learning rate, number of epochs, and optimizer.
         * Build a sequential model with dense layers
         * Fit and train the model
         * Make predictions on the test data
         * Plot the results
+    
     8. CNN model
         * Reshape the data in three dimensions
         * Define learning rate, number of epochs, and optimizer.
@@ -67,12 +74,14 @@ Tech stack
         * Fit and train the model
         * Make predictions on the test data
         * Plot the results
+    
     9. LSTM model
         v Define learning rate, number of epochs, and optimizer.
         * Build a sequential model with LSTM layer and dense layers
         * Fit and train the model
         * Make predictions on the test data
         * Plot the results
+    
     10. CNN-LSTM model
         * Reshape the data in four dimensions
         * Define learning rate, number of epochs, and optimizer.
