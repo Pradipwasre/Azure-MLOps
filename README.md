@@ -3,7 +3,7 @@ Azure Progress and MLOps work.
 
 ### Core principles of DevOps:
 - Continuous Integration and Continuous Delivery (Ci/CD)
-- Real-Time monitoring
+- Real-Time Monitoring
 -Incident Response system
 - Collaboration platforms
 
