@@ -17,8 +17,8 @@ Azure Progress and MLOps work.
 ### DevOps and the Application Life-Cycle
 
 - Plan
-- Devlop
-- Deliver
+- Develop
+- Delivery
 - Operate
 
 ### Azure DevOps
