@@ -58,9 +58,9 @@ Azure Progress and MLOps work.
 - Azure Artifacts
 
 Also
-- Colloboration Tools
+- Collaboration Tools
 - Wikis
-- Notifiaction Tools
+- Notification Tools
 - Extension Support
 ---------------------------------------------------
 
