@@ -51,7 +51,7 @@ Azure Progress and MLOps work.
 
 ### Azure DevOps Services
 
-- Azure repos 
+- Azure Repos 
 - Azure pipelines
 - Azure Boards
 - Azure Test plans 
