@@ -84,7 +84,7 @@ Also
 - Standards-based
 
 ## Routing  Methods
-* Routing refers to how an apllication's endpoints (URLs) respond to client requests.
+* Routing refers to how an application's endpoints (URLs) respond to client requests.
 - GET() Method
 - Post() Method
 
