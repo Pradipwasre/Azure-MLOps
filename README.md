@@ -83,7 +83,7 @@ Also
 - Robust
 - Standards-based
 
-## Routing  Methods
+## Routing  Methods:
 * Routing refers to how an application's endpoints (URLs) respond to client requests.
 - GET() Method
 - Post() Method
