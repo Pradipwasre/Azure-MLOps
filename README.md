@@ -73,7 +73,6 @@ Also
 
 ## Features of FastAPI
 
-
 - Fast
 - Fast to code
 - Fewer bugs 
