@@ -13,7 +13,6 @@ Azure Progress and MLOps work.
 - Maintaining system stability and reliability
 - Improving mean time to recovery
 
-
 ### DevOps and the Application Life-Cycle
 
 - Plan
