@@ -90,10 +90,10 @@ Also
 
 # Docker
 
-- Docker is an open platform for developing, shipping, and running applications
+- Docker is an open platform for developing, shipping and running applications
 - Manage infrastructures and applications
 - Ability to package and run an application in a loosely isolated environment called a container
-- Containers are lightweight and contain everything needed to tun the application
+- Containers are lightweight and contain everything needed to run the application
 
 ----------------------------------------------------------------
 
