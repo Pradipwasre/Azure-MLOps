@@ -136,7 +136,7 @@ Also
 
 - The Azure container registry is a hosting platform for Docker images.
 - Private registry to store and manage private docker container images and other related artifacts
-- Fast, scalable retreval of container workloads
+- Fast, scalable retrieval of container workloads
 - Handles private Docker container images as well as related content formats
 - Automate container building and patching
 
